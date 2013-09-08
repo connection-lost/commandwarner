@@ -1,0 +1,6 @@
+name: CommandWarner
+main: me.crafter.mc.commandwarner.commandwarner
+version: 1.0
+description: >
+             Warn all the players on the server if someone sends an invalid command.
+commands:
